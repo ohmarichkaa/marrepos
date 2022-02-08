@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1638265971 source:c:\users\marichka\devel\laba8\main.cpp
+	<iostream>
+
+1638224779 source:c:\users\marichka\devel\laba8\delete.cpp
+	<iostream>
+	<string>
+
+1638225094 source:c:\users\marichka\devel\laba8\fwrite.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1638225148 source:c:\users\marichka\devel\laba8\print.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1638225556 source:c:\users\marichka\devel\laba8\menu.cpp
+	<iostream>
+	<cstdio>
+
+1638265971 source:c:\users\marichka\devel\laba8\create&add.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1638225259 source:c:\users\marichka\devel\laba8\search.cpp
+	<iostream>
+	<string>
+	<fstream>
+

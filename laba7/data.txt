@@ -1,0 +1,5 @@
+cpu: refdggf		 freaq: 34567	 type: R
+cpu: Ddoqdviw		 freaq: 2439	 type: C
+cpu: Pamyzfd		 freaq: 2357	 type: C
+cpu: Kwvhmk		 freaq: 1263	 type: C
+cpu: Cwymsgh		 freaq: 2663	 type: R

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631772117 source:c:\users\marichka\devel\al6\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstring>
+

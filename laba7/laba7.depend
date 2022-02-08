@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1638216067 source:c:\users\marichka\devel\laba7\inputf.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<fstream>
+
+1638219982 source:c:\users\marichka\devel\laba7\main.cpp
+	<iostream>
+
+1638217412 source:c:\users\marichka\devel\laba7\add.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<fstream>
+
+1638219440 source:c:\users\marichka\devel\laba7\outputf.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstring>
+

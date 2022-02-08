@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638214468 source:c:\users\marichka\devel\laba1\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<cstring>
+

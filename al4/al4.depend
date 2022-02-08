@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631185854 source:c:\users\marichka\devel\al4\main.cpp
+	<fstream>
+	<iostream>
+	<random>
+	<iomanip>
+
+1631130740 c:\users\marichka\devel\al4\func.h
+	<fstream>
+	<iostream>
+	<random>
+	<iomanip>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1638215014 source:c:\users\marichka\devel\laba2\main.cpp
+	<iostream>
+	<ctime>
+
+1638215014 source:c:\users\marichka\devel\laba2\input.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<ctime>
+
+1638215014 source:c:\users\marichka\devel\laba2\output.cpp
+	<iostream>
+	<ctime>
+
+1638215081 source:c:\users\marichka\devel\laba2\sort.cpp
+	<iostream>
+	<string>
+
+1638215014 source:c:\users\marichka\devel\laba2\menu.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+	<ctime>
+

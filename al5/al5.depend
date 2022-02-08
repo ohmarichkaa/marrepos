@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632382207 source:c:\users\marichka\devel\al5\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstring>
+	<vector>
+

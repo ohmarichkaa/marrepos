@@ -1,0 +1,3 @@
+﻿  one.cpp
+C:\Users\marichka\source\repos\one\one\one.cpp(30): warning C4715: Calc: значение возвращается не при всех путях выполнения
+  one.vcxproj -> C:\Users\marichka\source\repos\one\Debug\one.exe

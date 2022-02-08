@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638121795 source:c:\users\marichka\devel\laba4\main.cpp
+	<iostream>
+
+1638122132 source:c:\users\marichka\devel\laba4\input.cpp
+	<iostream>
+

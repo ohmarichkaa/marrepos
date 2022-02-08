@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637745014 source:c:\users\marichka\devel\ad1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
